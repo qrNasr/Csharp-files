@@ -1,0 +1,15 @@
+/home/nk/Documents/Csharp_files/Hassouna/bin/Debug/net6.0/Hassouna
+/home/nk/Documents/Csharp_files/Hassouna/bin/Debug/net6.0/Hassouna.deps.json
+/home/nk/Documents/Csharp_files/Hassouna/bin/Debug/net6.0/Hassouna.runtimeconfig.json
+/home/nk/Documents/Csharp_files/Hassouna/bin/Debug/net6.0/Hassouna.dll
+/home/nk/Documents/Csharp_files/Hassouna/bin/Debug/net6.0/Hassouna.pdb
+/home/nk/Documents/Csharp_files/Hassouna/obj/Debug/net6.0/Hassouna.csproj.AssemblyReference.cache
+/home/nk/Documents/Csharp_files/Hassouna/obj/Debug/net6.0/Hassouna.GeneratedMSBuildEditorConfig.editorconfig
+/home/nk/Documents/Csharp_files/Hassouna/obj/Debug/net6.0/Hassouna.AssemblyInfoInputs.cache
+/home/nk/Documents/Csharp_files/Hassouna/obj/Debug/net6.0/Hassouna.AssemblyInfo.cs
+/home/nk/Documents/Csharp_files/Hassouna/obj/Debug/net6.0/Hassouna.csproj.CoreCompileInputs.cache
+/home/nk/Documents/Csharp_files/Hassouna/obj/Debug/net6.0/Hassouna.dll
+/home/nk/Documents/Csharp_files/Hassouna/obj/Debug/net6.0/refint/Hassouna.dll
+/home/nk/Documents/Csharp_files/Hassouna/obj/Debug/net6.0/Hassouna.pdb
+/home/nk/Documents/Csharp_files/Hassouna/obj/Debug/net6.0/Hassouna.genruntimeconfig.cache
+/home/nk/Documents/Csharp_files/Hassouna/obj/Debug/net6.0/ref/Hassouna.dll
