@@ -1,0 +1,15 @@
+/home/nk/Documents/Csharp_files/_strings/bin/Debug/net6.0/_strings
+/home/nk/Documents/Csharp_files/_strings/bin/Debug/net6.0/_strings.deps.json
+/home/nk/Documents/Csharp_files/_strings/bin/Debug/net6.0/_strings.runtimeconfig.json
+/home/nk/Documents/Csharp_files/_strings/bin/Debug/net6.0/_strings.dll
+/home/nk/Documents/Csharp_files/_strings/bin/Debug/net6.0/_strings.pdb
+/home/nk/Documents/Csharp_files/_strings/obj/Debug/net6.0/_strings.csproj.AssemblyReference.cache
+/home/nk/Documents/Csharp_files/_strings/obj/Debug/net6.0/_strings.GeneratedMSBuildEditorConfig.editorconfig
+/home/nk/Documents/Csharp_files/_strings/obj/Debug/net6.0/_strings.AssemblyInfoInputs.cache
+/home/nk/Documents/Csharp_files/_strings/obj/Debug/net6.0/_strings.AssemblyInfo.cs
+/home/nk/Documents/Csharp_files/_strings/obj/Debug/net6.0/_strings.csproj.CoreCompileInputs.cache
+/home/nk/Documents/Csharp_files/_strings/obj/Debug/net6.0/_strings.dll
+/home/nk/Documents/Csharp_files/_strings/obj/Debug/net6.0/refint/_strings.dll
+/home/nk/Documents/Csharp_files/_strings/obj/Debug/net6.0/_strings.pdb
+/home/nk/Documents/Csharp_files/_strings/obj/Debug/net6.0/_strings.genruntimeconfig.cache
+/home/nk/Documents/Csharp_files/_strings/obj/Debug/net6.0/ref/_strings.dll

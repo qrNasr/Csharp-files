@@ -1,0 +1,15 @@
+/home/nk/Documents/Csharp_files/StringAbout/bin/Debug/net6.0/StringAbout
+/home/nk/Documents/Csharp_files/StringAbout/bin/Debug/net6.0/StringAbout.deps.json
+/home/nk/Documents/Csharp_files/StringAbout/bin/Debug/net6.0/StringAbout.runtimeconfig.json
+/home/nk/Documents/Csharp_files/StringAbout/bin/Debug/net6.0/StringAbout.dll
+/home/nk/Documents/Csharp_files/StringAbout/bin/Debug/net6.0/StringAbout.pdb
+/home/nk/Documents/Csharp_files/StringAbout/obj/Debug/net6.0/StringAbout.csproj.AssemblyReference.cache
+/home/nk/Documents/Csharp_files/StringAbout/obj/Debug/net6.0/StringAbout.GeneratedMSBuildEditorConfig.editorconfig
+/home/nk/Documents/Csharp_files/StringAbout/obj/Debug/net6.0/StringAbout.AssemblyInfoInputs.cache
+/home/nk/Documents/Csharp_files/StringAbout/obj/Debug/net6.0/StringAbout.AssemblyInfo.cs
+/home/nk/Documents/Csharp_files/StringAbout/obj/Debug/net6.0/StringAbout.csproj.CoreCompileInputs.cache
+/home/nk/Documents/Csharp_files/StringAbout/obj/Debug/net6.0/StringAbout.dll
+/home/nk/Documents/Csharp_files/StringAbout/obj/Debug/net6.0/refint/StringAbout.dll
+/home/nk/Documents/Csharp_files/StringAbout/obj/Debug/net6.0/StringAbout.pdb
+/home/nk/Documents/Csharp_files/StringAbout/obj/Debug/net6.0/StringAbout.genruntimeconfig.cache
+/home/nk/Documents/Csharp_files/StringAbout/obj/Debug/net6.0/ref/StringAbout.dll
