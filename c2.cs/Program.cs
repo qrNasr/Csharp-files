@@ -115,5 +115,49 @@ System.Console.WriteLine(Convert.ToBoolean(mat));
 System.Console.WriteLine(Convert.ToDecimal(mat));
 System.Console.WriteLine(Convert.ToDouble(mat));
 
+/*float x = 77.5f;
+            float x1 = (float)77.5;
+            Double y = 77.999;
+
+
+            //int myInt = 9;
+            //double myDouble = myInt;       // Automatic casting: int to double
+
+            //Console.WriteLine(myInt);      // Outputs 9
+            //Console.WriteLine(myDouble);   // Outputs 9
+
+
+
+            //double myDouble = 9.78;
+            //int myInt = (int)myDouble;    // Manual casting: double to int
+
+            //Console.WriteLine(myDouble);   // Outputs 9.78
+            //Console.WriteLine(myInt);      // Outputs 9
+
+
+            //int myInt = 10;
+            //double myDouble = 5.25;
+            //bool myBool = true;
+
+            //Console.WriteLine(Convert.ToString(myInt));    // convert int to string
+            //Console.WriteLine(Convert.ToDouble(myInt));    // convert int to double
+            //Console.WriteLine(Convert.ToInt32(myDouble));  // convert double to int
+            //Console.WriteLine(Convert.ToString(myBool));   // convert bool to string
+
+
+            //string s = Console.ReadLine();
+            //int i = Convert.ToInt32(s); // convert to int
+            //long l = Convert.ToInt64(s); // convert to long
+            //float f = Convert.ToSingle(s); // convert to float
+            //double d = Convert.ToDouble(s); // convert to double
+            //decimal c = Convert.ToDecimal(s); // convert to decimal
+
+
+            string s = Console.ReadLine();
+            long A = Int64.Parse(s); // convert to long
+            float A1 = float.Parse(s); // convert to float
+            decimal A2 = decimal.Parse(s); // convert to decimal
+            double A3 = double.Parse(s); // convert to double
+            int A4 = int.Parse(s); // convert to int*/
 }
 }
