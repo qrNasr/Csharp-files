@@ -186,6 +186,17 @@ namespace ConsoleApplication4
 
             //Console.ReadKey();
 
+
+            Console.WriteLine("{0:c}", 27.1); //27.1 $
+            Console.WriteLine("{0:d1}", 27); //27
+            Console.WriteLine("{0:d5}", 27); //00027
+            Console.WriteLine("{0:e}", 2700); //2.700000e +003
+            Console.WriteLine("{0:f2}", 27); //27
+            Console.WriteLine("{0:f3}", 27); //27.000
+            Console.WriteLine("{0:g}", 2.7); //2.7
+            Console.WriteLine("{0:n}", 2700); //2,700.00
+            Console.WriteLine("{0:x}", 27); //1b
+            Console.ReadKey();
         }
 
     }
