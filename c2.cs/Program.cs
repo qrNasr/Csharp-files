@@ -1,6 +1,6 @@
 ﻿using System.Text;
 using System;
-class Kud{
+class ManyMethodes{
 
 public static void Main(string[] args) {
     
@@ -114,12 +114,6 @@ System.Console.WriteLine(Convert.ToString(mat));
 System.Console.WriteLine(Convert.ToBoolean(mat));
 System.Console.WriteLine(Convert.ToDecimal(mat));
 System.Console.WriteLine(Convert.ToDouble(mat));
-
-
-
-
-
-
 
 }
 }
