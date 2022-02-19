@@ -122,7 +122,51 @@
         string nam7 = "Nasr";
         System.Console.WriteLine($"Hello {nam7}");
 
-        
+        // Arrays single dimiension
+
+        int[] numbers = new int[3];
+        numbers[0] = 33;
+        numbers[1] = 77;
+        numbers[2] = 99;
+        System.Console.WriteLine(numbers[0]);
+        System.Console.WriteLine(numbers[1]);
+        System.Console.WriteLine(numbers[2]);
+
+        int[] nums = { 11, 22, 33 };// int array
+        string[] names = { "Nasr", "Mona", "Shahd" };// string array
+        System.Console.WriteLine(nums[0]);
+        System.Console.WriteLine(nums[1]);
+        System.Console.WriteLine(nums[2]);
+
+        System.Console.WriteLine(names[0]);
+        System.Console.WriteLine(names[1]);
+        System.Console.WriteLine(names[2]);
+        names [0] = "Malak"; // change array values
+        names [1] = "Omar";
+        System.Console.WriteLine(names[0]);
+        System.Console.WriteLine(names[1]);
+
+        object [] sortt = {"Omar",2,true,"1243"};
+        System.Console.WriteLine(sortt);
+        System.Array.Resize(ref sortt,12);
+       // System.Array. etc ....
+
+       
+
+        // arrayName.resize (ref Array_name ,6)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
