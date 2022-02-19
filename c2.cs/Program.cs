@@ -115,7 +115,9 @@ System.Console.WriteLine(Convert.ToBoolean(mat));
 System.Console.WriteLine(Convert.ToDecimal(mat));
 System.Console.WriteLine(Convert.ToDouble(mat));
 
-/*float x = 77.5f;
+/*
+
+float x = 77.5f;
             float x1 = (float)77.5;
             Double y = 77.999;
 
@@ -158,6 +160,8 @@ System.Console.WriteLine(Convert.ToDouble(mat));
             float A1 = float.Parse(s); // convert to float
             decimal A2 = decimal.Parse(s); // convert to decimal
             double A3 = double.Parse(s); // convert to double
-            int A4 = int.Parse(s); // convert to int*/
+            int A4 = int.Parse(s); // convert to int
+            
+            */
 }
 }
